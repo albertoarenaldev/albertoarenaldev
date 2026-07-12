@@ -69,6 +69,9 @@ Construyo APIs REST con **Spring Boot**, **JPA** y **Docker**. Código limpio, t
 
 ## 🚀 Proyectos destacados
 
+### [🔐 Auth Service](https://github.com/albertoarenaldev/auth-service) — Java · Spring Boot 3 · Spring Security · JWT · OAuth2
+Microservicio de autenticación **stateless** con JWT, refresh tokens rotativos, OAuth2 (Google/GitHub), rate limiting con Bucket4j y métricas Prometheus. 129 tests con 95% de cobertura, CI/CD con GitHub Actions.
+
 ### [📅 Gestión de Eventos](https://github.com/albertoarenaldev/gestion-eventos) — Java · Spring Boot 3 · JPA · Docker
 API REST completa (CRUD + validaciones + excepciones) con arquitectura MVC, testing JUnit/Mockito, CI/CD con Jenkins + SonarQube + JaCoCo. Proyecto final de Bootcamp.
 
